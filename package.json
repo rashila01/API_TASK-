@@ -1,0 +1,25 @@
+{
+  "name": "api_task",
+  "version": "1.0.0",
+  "description": "REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashila01/API_TASK-.git"
+  },
+  "author": "Rashila Maharjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashila01/API_TASK-/issues"
+  },
+  "homepage": "https://github.com/rashila01/API_TASK-#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
+  }
+}
